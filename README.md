@@ -2,7 +2,8 @@
 
 Script to download videos of http://jaidefinichon.org/ 
 
-#Use
+# Use
 
 Put link of disqus thread 
-Example: $ bash jaidefvideos.sh http://jaidefinichon.org/post/173029125440#disqus_thread
+
+- Example: $ bash jaidefvideos.sh http://jaidefinichon.org/post/173029125440#disqus_thread
